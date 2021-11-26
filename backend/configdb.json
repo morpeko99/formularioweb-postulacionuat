@@ -1,0 +1,6 @@
+
+{
+    "nameMySQLUser" : "root",
+    "passwordMySQLUser": "123456",
+    "nameMySQLDb": "flaskmysql"
+}
